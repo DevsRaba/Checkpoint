@@ -1,0 +1,3 @@
+Hola Amigo
+
+Este archivo fue creado para probar que la maquina virtual funciona correctamente
